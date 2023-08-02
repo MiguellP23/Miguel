@@ -14,6 +14,7 @@ public class Main {
 		for (int i = 0; i < arregloEnterosLargos.length; i++) {
 		  System.out.print(arregloEnterosLargos [i]+ " - ");
 		}
+		System.out.println("Uwu");
 		
 //		Arrays.
 	}
